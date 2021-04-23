@@ -8,5 +8,5 @@ Esse projeto visa inplemetar de forma pratica os conheciemtos adquiridos durante
 
 # Página home do site
 
-![Tela de login](https://github.com/Leandrors91/EMITECH-solucoes-tecnologicas/blob/master/pagina/imgs/tela%20do%20projeto.png 'Tela do site')
+![Tela de login](https://github.com/Leandrors91/EMITECH-solucoes-tecnologicas/blob/master/pagina/imgs/tela.png 'Tela do site')
 
