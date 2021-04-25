@@ -38,7 +38,7 @@
     display: flex;
     justify-content: center;
     margin-top: 5vh;
-    margin-bottom: -10vh;
+    margin-bottom: -5vh;
 }
 
 #myBtn {
@@ -64,7 +64,7 @@
 
 .back-ground{
     background: #275cff;
-    height: 20vh;
+    height: 10vh;
 }
 
 .wraper-contato{

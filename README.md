@@ -1,12 +1,17 @@
 # EMITECH-solucoes-tecnologicas
 
-Projeto desenvolvido durante curso da Uninove 
+Neste reopositório está a homepage da Emitech uma empresa fictícia que oferece soluções de software e de hardware para as empresas que procuram por inovação e tecnologia. O projeto foi desenvolvido durante curso da Uninove e visa implemetar de forma prática os conheciemtos adquiridos durante o semestre do curso de Ciências da Computação na Uninove.
 
-# Objetivos
+# Tecnologias Usadas
 
-Esse projeto visa inplemetar de forma pratica os conheciemtos adquiridos durante o semestre do curso de Ciências da Computação na Uninove
+* HTML
+* CSS
+* JavaScript
+* JQuery
+* BootStrap
 
 # Página home do site
 
-![Tela de login](https://github.com/Leandrors91/EMITECH-solucoes-tecnologicas/blob/master/pagina/imgs/tela%20do%20projeto.png 'Tela do site')
+![Tela de login](https://github.com/Leandrors91/EMITECH-solucoes-tecnologicas/blob/master/pagina/imgs/tela.png 'Tela do site')
+
 
