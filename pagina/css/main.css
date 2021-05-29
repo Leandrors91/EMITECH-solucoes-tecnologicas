@@ -19,25 +19,10 @@
     margin-right: 10px;
 }
 
-.rede{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 5vh;
-}
-
-.wraper-carousel{
-    width: 33vw;
-    margin: 0 auto;
-}
-
-.wraper-carousel img{
-    height: 200px;
-}
-
 .wraper-card{
     display: flex;
     justify-content: center;
-    margin-top: 5vh;
+    margin-top: 11vh;
     margin-bottom: -5vh;
 }
 
@@ -83,7 +68,10 @@
 .contato a{
     color: white;
     text-decoration: none;
+}
 
+.contato a:hover{
+    color: gray;
 }
 
 .rodape{

@@ -1,0 +1,15 @@
+.rede{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+}
+
+.wraper-carousel{
+    width: 33vw;
+    margin: 0 auto;
+}
+
+.wraper-carousel img{
+    height: 200px;
+}
